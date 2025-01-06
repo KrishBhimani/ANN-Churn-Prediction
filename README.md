@@ -17,8 +17,7 @@ To run the app locally, follow these steps:
 
 1. **Clone the repository**:  
     ```bash  
-    git clone <repository_url>  
-    cd customer-churn-prediction  
+    git clone <repository_url> 
     ```  
 
 2. **Create a virtual environment**:  
@@ -54,4 +53,4 @@ To run the app locally, follow these steps:
 
 ## Deployment  
 
-The app is deployed on Streamlit Cloud. You can access it using this [link](https://ann-churn-prediction-8npkmxkueyyuqqxzv7b7rq.streamlit.app/). *(Replace `#` with the actual deployment link)*  
+The app is deployed on Streamlit Cloud. You can access it using this [link](https://ann-churn-prediction-8npkmxkueyyuqqxzv7b7rq.streamlit.app/).
